@@ -1,7 +1,10 @@
 class Main {
     public static void main(String[] args) {
+
         for (int i = 1; i <= 100; i++) {
+
             System.out.print(String.format("%3d: ", i));
+
             if (i % 3 == 0 && i % 5 == 0) {
                 System.out.println("FizzBuzz!!");
             } else if (i % 3 == 0) {
@@ -9,8 +12,9 @@ class Main {
             } else if (i % 5 == 0) {
                 System.out.println("Buzz!!");
             } else {
-                System.out.println("");
+                System.out.println();
             }
+
         }
     }
 }
