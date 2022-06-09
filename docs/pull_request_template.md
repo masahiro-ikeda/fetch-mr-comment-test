@@ -1,11 +1,11 @@
-## Link to ticket
+## チケットへのリンク
 
-## What I did
+## やったこと
 
-## What not to do
+## やらないこと
 
-## Checklist
+## チェックリスト
 
-- [ ] Is the merge destination wrong?
-- [ ] Did you eat breakfast?
-- [ ] Did you brush your teeth before going to bed?
+- [ ] マージ先は間違っていないか？
+- [ ] 朝ごはんは食べたか？
+- [ ] 寝る前に歯磨きはしたか？
